@@ -6,4 +6,4 @@ Taiwan Lottery Analyzer Demo - Lotto649 focused
 * selenium
 * pandas
 <br>
-_(finding new ways to solve ASP.NET crawling problems...)_
+*(finding new ways to solve ASP.NET crawling problems...)*
